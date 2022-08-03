@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm new92</h1>
+<h1 align="center">Hi There 👋, I'm new92</h1>
 
 <br/>
 <img alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
