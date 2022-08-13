@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AllInOneKit](https://github.com/new92/AllInOneKit)
-
 - 🌱 I’m currently learning **PHP and Javascript**
 
 - 📫 How to reach me **new92github@gmail.com**
