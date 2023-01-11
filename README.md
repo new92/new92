@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **PHP** ![php](https://user-images.githubusercontent.com/94779840/211932139-69cbb9da-c347-4b31-a9a4-29a0bc92b8c4.svg)
+- 🌱 I’m currently learning **PHP**
 
 
 - 📫 How to reach me **new92github@gmail.com**
