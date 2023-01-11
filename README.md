@@ -21,6 +21,7 @@
 <br />
 <br />
 #### Visitors:
+
 ![Visitor Count](https://profile-counter.glitch.me/new92/count.svg)
 
 <h3 align="left">Languages and Tools:</h3>
