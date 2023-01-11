@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm new92</h1>
 
-<br/>
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=new92&label=Profile%20views&color=0e75b6&style=flat" alt="new92" /> </p>
 
@@ -18,7 +18,9 @@
 <p align="left">
 <a href="https://instagram.com/new92github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="new92github" height="30" width="40" /></a>
 </p>
-
+<br />
+<br />
+#### Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/new92/count.svg)
 
 <h3 align="left">Languages and Tools:</h3>
