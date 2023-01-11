@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=new92&show_icons=true&locale=en" alt="new92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new92&" alt="new92" /></p>
+  
+  
+  
+![Visitor Count](https://profile-counter.glitch.me/new92/count.svg)
