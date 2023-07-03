@@ -2,9 +2,9 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=new92&label=Profile%20views&color=orange&style=for-the-badge" alt="new92" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=new92&label=Profile%20views&color=orange&style=for-the-badge&logo=github" alt="new92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new92&theme=tokyonight" alt="new92" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new92&theme=tokyonight" alt="new92" /></a> </p>
 
 - 🌱 I’m currently learning **PHP**
 
