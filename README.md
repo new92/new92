@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Everything**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **🪄**
 
 - 📫 How to reach me **new92github@gmail.com**
 
