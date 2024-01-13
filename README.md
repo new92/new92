@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **🪄**
 
+- 🎶 My type of music is **Jazz (and hiphop)**
+
 - 📫 How to reach me **new92github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
