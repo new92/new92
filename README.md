@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new92" alt="new92" /></a> </p>
 
-- 🔭 I’m currently working on **✈️**
+- 🔭 I’m currently working on **📖**
 
-- 🌱 I’m currently learning **🪄**
+- 🌱 I’m currently learning **C**
 
 - 🎶 I enjoy listening to **Jazz (and hiphop)**
 
