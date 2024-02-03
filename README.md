@@ -34,6 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=new92&show_icons=true&locale=en&layout=pie&theme=dracula" alt="new92" /></p>
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=new92&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=new92&show_icons=true&locale=en&theme=synthwave" alt="new92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new92&" alt="new92" /></p>
