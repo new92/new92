@@ -13,6 +13,8 @@
 
 - 💻 Most recent project -> **<a href="https://github.com/new92/php/tree/main/Spider">Spider</a>**
 
+- 🔭 InstaTools 2.0 is loading...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/new92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="new92" height="30" width="40" /></a>
