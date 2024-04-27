@@ -13,7 +13,7 @@
 
 - 💻 Most recent project -> **<a href="https://github.com/new92/php/tree/main/Spider">Spider</a>**
 
-- 🔭 InstaTools 2.0 is loading...
+- 🔭 **InstaTools 2.0 is loading...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
