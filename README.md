@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **new92github@gmail.com**
 
-- 💻 Most recent project -> **<a href="https://github.com/new92/php/tree/main/Spider">Spider</a>**
-
-- 🔭 **InstaTools 2.0 is loading...**
+- 💻 Most recent project -> **<a href="https://github.com/new92/InstaTools">InstaTools 2.0</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
