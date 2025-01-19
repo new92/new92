@@ -36,6 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=new92&show_icons=true&locale=en&theme=synthwave" alt="new92" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new92&" alt="new92" /></p>-->
-
-![snake animation](https://github.com/new92/new92/blob/output/github-contribution-grid-snake2.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new92&" alt="new92" /></p>
