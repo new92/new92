@@ -38,4 +38,4 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new92&" alt="new92" /></p>-->
 
-![snake animation](https://github.com/new92/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/new92/new92/blob/output/github-contribution-grid-snake2.svg)
