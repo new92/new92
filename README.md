@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **everything**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Java**
 
 - 🎶 I enjoy listening to **Jazz (and hiphop)**
 
