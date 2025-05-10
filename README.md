@@ -15,7 +15,7 @@ In a world where you can be anything, be kind.
 
 - 📫 How to reach me **new92github@gmail.com**
 
-- 💻 Most recent project -> **<a href="https://github.com/new92/php/tree/main/Gitspy">Gitspy</a>**
+- 💻 Latest project -> **<a href="https://github.com/new92/php/tree/main/Gitspy">Gitspy</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
