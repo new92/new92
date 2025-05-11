@@ -7,15 +7,15 @@ In a world where you can be anything, be kind.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new92" alt="new92" /></a> </p>
 
+- 💻 Latest project -> **<a href="https://github.com/new92/php/tree/main/Gitspy">Gitspy</a>**
+
 - 🔭 I’m currently working on **my studies**
 
 - 🌱 I’m currently learning **Java**
 
-- 🎶 I enjoy listening to **Jazz (and hiphop)**
-
 - 📫 How to reach me **new92github@gmail.com**
 
-- 💻 Latest project -> **<a href="https://github.com/new92/php/tree/main/Gitspy">Gitspy</a>**
+- 🎶 I enjoy listening to **Jazz (and hiphop)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
