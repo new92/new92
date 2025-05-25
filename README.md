@@ -1,5 +1,9 @@
 <!--
 In a world where you can be anything, be kind.
+
+Free MHD
+Free Maes
+Long Live Werenoi
 -->
 
 <h1 align="center">Hi there 👋, I'm Spiros</h1>
