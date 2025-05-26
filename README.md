@@ -1,8 +1,8 @@
 <!--
 In a world where you can be anything, be kind.
 
-Free MHD ⛓️‍💥
-Free Maes ⛓️‍💥
+Libérer MHD ⛓️‍💥
+Libérer Maes ⛓️‍💥
 Long Live Werenoi 🕊️
 -->
 
