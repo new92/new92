@@ -1,9 +1,5 @@
 <!--
 In a world where you can be anything, be kind.
-
-Libérer MHD ⛓️‍💥
-Libérer Maes ⛓️‍💥
-Long Live Werenoi 🕊️
 -->
 
 <h1 align="center">Hi there 👋, I'm new92</h1>
