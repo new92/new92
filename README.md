@@ -11,7 +11,7 @@ Long Live Werenoi 🕊️
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new92" alt="new92" /></a> </p>
 
-- 💻 Latest project -> **<a href="https://github.com/new92/php/tree/main/Gitspy">Gitspy</a>**
+- 💻 Latest project -> **<a href="https://github.com/new92/trackr">trackr</a>**
 
 - 🔭 I’m currently working on **my studies**
 
