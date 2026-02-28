@@ -11,7 +11,7 @@ In a world where you can be anything, be kind.
 
 - 🔭 I’m currently working on **my studies**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **new92github@gmail.com**
 
