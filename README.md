@@ -49,7 +49,7 @@ In a world where you can be anything, be kind.
 <h3>Languages and Tools</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,php,html,css,bash,git,github,mysql,sqlite,gitlab,postman,blender,arduino,linux,vscode,visualstudio,powershell,flask,pytorch,selenium,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,php,bash,mysql,sqlite,selenium,django,vscode,visualstudio,idea,git,github,gitlab,postman,flask,kali,ubuntu,windows" />
 </a>
 
 <br><br>
