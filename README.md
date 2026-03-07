@@ -8,7 +8,7 @@ In a world where you can be anything, be kind.
 
 <img src="https://komarev.com/ghpvc/?username=new92&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="new92" />
 
-<br>
+<br><br>
 
 💻 Latest project -> <b><a href="https://github.com/new92/trackr">trackr</a></b>
 
