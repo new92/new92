@@ -5,8 +5,6 @@ In a world where you can be anything, be kind.
 <h1 align="center">Hi there 👋, I'm new92</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=new92&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="new92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=new92" alt="new92" /></a> </p>
-
 - 💻 Latest project -> **<a href="https://github.com/new92/trackr">trackr</a>**
 
 - 🔭 I’m currently working on **my studies**
