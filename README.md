@@ -17,11 +17,10 @@ In a world where you can be anything, be kind.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/new92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="new92" height="30" width="40" /></a>
-<a href="https://instagram.com/jam.thoughtz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="new92github" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/new92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="new92" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/new92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="new92" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/new92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="new92" height="30" width="40" /></a>
+  <a href="https://profile.hackthebox.com/profile/019cc94c-22b1-71e7-af81-07eef812fb02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@16.10.0/icons/hackthebox.svg" alt="new92" height="30" width="40" /></a>
+  <a href="https://hackerone.com/anub1sh4ck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerone.svg" alt="new92" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/new92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="new92" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/new92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="new92" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
