@@ -67,4 +67,4 @@ Long Live Pope Francis
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=new92" />
 
 </div>
-[![new92/instatools on SrcLog](https://srclog.com/card/repo/instatools.svg)](https://srclog.com/instatools)
+<a href="https://srclog.com/instatools"><img src="https://srclog.com/card/repo/instatools.svg" alt="new92/instatools on SrcLog" width="640"></a>
